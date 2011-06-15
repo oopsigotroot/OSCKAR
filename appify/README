@@ -1,0 +1,11 @@
+Appify is a tool to allow for the creation of Virtual Appliances-on-demand,
+in order to allow user applications to be run inside virtual machine
+sandboxes, while still maintaining a reasonable level of system usability.
+
+This tool is a member of the family of OSCKAR-based products.
+More about OSCKAR: http://clarkson.edu/projects/virtualization/osckar/
+
+https://github.com/oopsigotroot/OSCKAR/appify
+
+License: Apache 2.0 http://www.apache.org/licenses/LICENSE-2.0
+
